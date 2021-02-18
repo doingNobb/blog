@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T05:29:41.501Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.2.4" etag="Qrq-LmVawVkkgEzLBllJ" type="github"><diagram id="X0LsSJhxGh094Yjvctff">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-18T14:39:09.176Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="XH52s7DYeUsGIrptOKTu" version="14.4.2" type="github">
+  <diagram id="X0LsSJhxGh094Yjvctff" name="Page-1">
+    <mxGraphModel dx="945" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p7rTClUbwWLyakRO_yKf-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p7rTClUbwWLyakRO_yKf-3" target="p7rTClUbwWLyakRO_yKf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7rTClUbwWLyakRO_yKf-3" value="doard-control 触发&amp;nbsp;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; ; font-size: medium ; font-weight: 700 ; text-align: justify ; background-color: rgb(255 , 255 , 255)&quot;&gt;ondragstart&lt;/span&gt;&amp;nbsp;&amp;nbsp;事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p7rTClUbwWLyakRO_yKf-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p7rTClUbwWLyakRO_yKf-4" target="p7rTClUbwWLyakRO_yKf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7rTClUbwWLyakRO_yKf-4" value="隐藏 doard-control&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p7rTClUbwWLyakRO_yKf-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p7rTClUbwWLyakRO_yKf-6" target="p7rTClUbwWLyakRO_yKf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7rTClUbwWLyakRO_yKf-6" value="生成 drap-node-mask(虚线框)&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p7rTClUbwWLyakRO_yKf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p7rTClUbwWLyakRO_yKf-8" target="p7rTClUbwWLyakRO_yKf-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7rTClUbwWLyakRO_yKf-8" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;生成 drop-temporary-node&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p7rTClUbwWLyakRO_yKf-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p7rTClUbwWLyakRO_yKf-10" target="p7rTClUbwWLyakRO_yKf-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7rTClUbwWLyakRO_yKf-10" value="生成 drop-temporary-path" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p7rTClUbwWLyakRO_yKf-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p7rTClUbwWLyakRO_yKf-12" target="p7rTClUbwWLyakRO_yKf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7rTClUbwWLyakRO_yKf-12" value="&amp;nbsp;doard-control&amp;nbsp;&lt;br&gt;触发&amp;nbsp;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; ; font-size: medium ; font-weight: 700 ; text-align: justify ; background-color: rgb(255 , 255 , 255)&quot;&gt;ondragend&lt;/span&gt;&amp;nbsp;事件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p7rTClUbwWLyakRO_yKf-14" value="重新布局" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
